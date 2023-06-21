@@ -1,4 +1,4 @@
-# fcc-periodic-table-database-challenge
+# freeCodeCamp Periodic Table Database challenge
 
 ## Instructions
 
